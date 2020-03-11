@@ -1,0 +1,8 @@
+{
+    "preprocessed_data_folder": "preprocessed_data", 
+    "dataloader_params": {
+        "batch_size": 128,
+        "num_workers": 12
+    },
+    "model_file": "model/model.pkl"
+}

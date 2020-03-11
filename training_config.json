@@ -1,0 +1,11 @@
+{
+    "preprocessed_data_folder": "preprocessed_data", 
+    "label_folder": "../public",
+    "dataloader_params": {
+        "batch_size": 128,
+        "num_workers": 12
+    },
+    "num_workers": 12,
+    "model_folder": "model",
+    "max_epochs": 20
+}

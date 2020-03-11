@@ -1,0 +1,6 @@
+{
+    "pad_token": 0,
+    "n_workers": 12,
+    "data_folder": "", 
+    "preprocessed_data_folder": "preprocessed_data"
+}
